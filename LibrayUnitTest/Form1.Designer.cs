@@ -30,6 +30,7 @@
             this.tabControl1 = new System.Windows.Forms.TabControl();
             this.tabPage1 = new System.Windows.Forms.TabPage();
             this.tabPage2 = new System.Windows.Forms.TabPage();
+            this.listSubTestBtn = new System.Windows.Forms.Button();
             this.tabControl1.SuspendLayout();
             this.tabPage1.SuspendLayout();
             this.SuspendLayout();
@@ -79,6 +80,7 @@
             // 
             // tabPage1
             // 
+            this.tabPage1.Controls.Add(this.listSubTestBtn);
             this.tabPage1.Controls.Add(this.minValueIpt);
             this.tabPage1.Controls.Add(this.maxValueIpt);
             this.tabPage1.Controls.Add(this.testBtn);
@@ -95,10 +97,20 @@
             this.tabPage2.Location = new System.Drawing.Point(4, 22);
             this.tabPage2.Name = "tabPage2";
             this.tabPage2.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage2.Size = new System.Drawing.Size(192, 74);
+            this.tabPage2.Size = new System.Drawing.Size(685, 265);
             this.tabPage2.TabIndex = 1;
             this.tabPage2.Text = "tabPage2";
             this.tabPage2.UseVisualStyleBackColor = true;
+            // 
+            // listSubTestBtn
+            // 
+            this.listSubTestBtn.Location = new System.Drawing.Point(7, 91);
+            this.listSubTestBtn.Name = "listSubTestBtn";
+            this.listSubTestBtn.Size = new System.Drawing.Size(75, 23);
+            this.listSubTestBtn.TabIndex = 4;
+            this.listSubTestBtn.Text = "listSubTest";
+            this.listSubTestBtn.UseVisualStyleBackColor = true;
+            this.listSubTestBtn.Click += new System.EventHandler(this.listSubTestBtn_Click);
             // 
             // Form1
             // 
@@ -125,6 +137,7 @@
         private System.Windows.Forms.TabControl tabControl1;
         private System.Windows.Forms.TabPage tabPage1;
         private System.Windows.Forms.TabPage tabPage2;
+        private System.Windows.Forms.Button listSubTestBtn;
     }
 }
 

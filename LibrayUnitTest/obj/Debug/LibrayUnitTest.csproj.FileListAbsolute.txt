@@ -8,6 +8,4 @@ E:\LibrayUnitTest\LibrayUnitTest\obj\Debug\LibrayUnitTest.csproj.GenerateResourc
 E:\LibrayUnitTest\LibrayUnitTest\obj\Debug\LibrayUnitTest.exe
 E:\LibrayUnitTest\LibrayUnitTest\obj\Debug\LibrayUnitTest.pdb
 E:\LibrayUnitTest\LibrayUnitTest\bin\Debug\SuperLibray.dll
-E:\LibrayUnitTest\LibrayUnitTest\bin\Debug\UnityEngine.dll
 E:\LibrayUnitTest\LibrayUnitTest\bin\Debug\SuperLibray.pdb
-E:\LibrayUnitTest\LibrayUnitTest\bin\Debug\UnityEngine.pdb

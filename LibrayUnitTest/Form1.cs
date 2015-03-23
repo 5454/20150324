@@ -18,5 +18,15 @@ namespace LibrayUnitTest {
         private void TestBtn_Click(object sender, EventArgs e) {
             logBox.AppendText(Algorithm.RandomFloatRange(Convert.ToSingle(minValueIpt.Text), Convert.ToSingle(maxValueIpt.Text)).ToString() + "\n");
         }
+
+        private void listSubTestBtn_Click(object sender, EventArgs e) {
+            List<float> listTest = new List<float>();
+            listTest.Add(1);
+            listTest.Add(2);
+            listTest.Add(3);
+            listTest.Add(4);
+            listTest.Add(5);
+            logBox.AppendText(listTest.Sum().ToString());
+        }
     }
 }

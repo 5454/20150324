@@ -1,0 +1,13 @@
+E:\LibrayUnitTest\LibrayUnitTest\bin\Debug\LibrayUnitTest.exe.config
+E:\LibrayUnitTest\LibrayUnitTest\bin\Debug\LibrayUnitTest.exe
+E:\LibrayUnitTest\LibrayUnitTest\bin\Debug\LibrayUnitTest.pdb
+E:\LibrayUnitTest\LibrayUnitTest\obj\Debug\LibrayUnitTest.csprojResolveAssemblyReference.cache
+E:\LibrayUnitTest\LibrayUnitTest\obj\Debug\LibrayUnitTest.Form1.resources
+E:\LibrayUnitTest\LibrayUnitTest\obj\Debug\LibrayUnitTest.Properties.Resources.resources
+E:\LibrayUnitTest\LibrayUnitTest\obj\Debug\LibrayUnitTest.csproj.GenerateResource.Cache
+E:\LibrayUnitTest\LibrayUnitTest\obj\Debug\LibrayUnitTest.exe
+E:\LibrayUnitTest\LibrayUnitTest\obj\Debug\LibrayUnitTest.pdb
+E:\LibrayUnitTest\LibrayUnitTest\bin\Debug\SuperLibray.dll
+E:\LibrayUnitTest\LibrayUnitTest\bin\Debug\UnityEngine.dll
+E:\LibrayUnitTest\LibrayUnitTest\bin\Debug\SuperLibray.pdb
+E:\LibrayUnitTest\LibrayUnitTest\bin\Debug\UnityEngine.pdb
